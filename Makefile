@@ -3,7 +3,7 @@ FRONTEND_DIR := web
 DIST_DIR := $(FRONTEND_DIR)/dist
 
 # Go output binary
-BINARY := simplereactembed 
+BINARY := simplereactembed
 
 # Default target: build React and Go binary
 all: build
